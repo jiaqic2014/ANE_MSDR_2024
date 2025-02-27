@@ -1,5 +1,7 @@
 Repo for **Design and Cost-Benefit Analysis of the Xenon Removal System for the Molten Salt Demonstration Reactor.**
 
+(https://doi.org/10.1016/j.anucene.2024.110705)
+
 Usage:
 
 1. Run initialization file.
